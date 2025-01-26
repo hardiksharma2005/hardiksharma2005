@@ -13,9 +13,11 @@
 - ⚡ Fun fact **I'm a fast learner╰(*°▽°*)╯**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="hardik94144" target="_blank">
+<a href="https://discordapp.com/users/hardik94144/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="www.linkedin.com/in/hardik94144" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
 <a href="https://twitter.com/hardiksharma_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hardiksharma_06" height="30" width="40" /></a>
